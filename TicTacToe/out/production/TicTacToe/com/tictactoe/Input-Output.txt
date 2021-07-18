@@ -1,0 +1,54 @@
+Mike
+Harry
+Mike: X
+Harry: O
+- - -
+- - -
+- - -
+************
+Mike:
+0 0
+X - -
+- - -
+- - -
+************
+Harry:
+0 1
+X O -
+- - -
+- - -
+************
+Mike:
+0 2
+X O X
+- - -
+- - -
+************
+Harry:
+1 0
+X O X
+O - -
+- - -
+************
+Mike:
+1 1
+X O X
+O X -
+- - -
+************
+Harry:
+1 2
+X O X
+O X O
+- - -
+************
+Mike:
+2 0
+X O X
+O X O
+X - -
+************
+Game Over
+Result: Mike Won!!!
+
+Process finished with exit code 0
